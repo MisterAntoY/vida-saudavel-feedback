@@ -1,4 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/graph.svg?title=Vida+Saud%C3%A1vel+Feedback&subtitle=Plataforma+de+Acompanhamento+de+Sa%C3%BAde+e+Nutri%C3%A7%C3%A3o&logo=nextdotjs&theme=emerald&mode=dark" />
+    <img alt="Vida Saudável Feedback" src="https://shieldcn.dev/header/graph.svg?title=Vida+Saud%C3%A1vel+Feedback&subtitle=Plataforma+de+Acompanhamento+de+Sa%C3%BAde+e+Nutri%C3%A7%C3%A3o&logo=nextdotjs&theme=emerald&mode=light" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MisterAntoY/vida-saudavel-feedback"><img alt="GitHub Stars" src="https://shieldcn.dev/github/stars/MisterAntoY/vida-saudavel-feedback.svg?variant=secondary&size=sm&theme=emerald" /></a>
+  <a href="https://github.com/MisterAntoY/vida-saudavel-feedback"><img alt="Last Commit" src="https://shieldcn.dev/github/last-commit/MisterAntoY/vida-saudavel-feedback.svg?variant=secondary&size=sm&theme=emerald" /></a>
+  <a href="https://nextjs.org/"><img alt="Next.js" src="https://shieldcn.dev/badge/Next.js-14%2B-000000.svg?logo=nextdotjs&variant=secondary&size=sm" /></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://shieldcn.dev/badge/TypeScript-5-3178C6.svg?logo=typescript&variant=secondary&size=sm" /></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://shieldcn.dev/badge/Docker-Ready-2496ED.svg?logo=docker&variant=secondary&size=sm" /></a>
+</p>
+
+---
+
+Aplicação moderna para acompanhamento nutricional, metas de bem-estar e recolha de feedbacks de pacientes/clientes.
+
+---
 
 ## Getting Started
 
